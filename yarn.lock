@@ -6725,7 +6725,7 @@ __metadata:
     typescript: ^5.4.5
     uuid: ^11.0.2
     vaul: ^1.1.0
-    vite: ^5.4.6
+    vite: ^5.4.19
     vite-tsconfig-paths: ^4.3.2
     wouter: ^3.3.1
   languageName: unknown
@@ -8011,9 +8011,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^5.4.6":
-  version: 5.4.6
-  resolution: "vite@npm:5.4.6"
+"vite@npm:^5.4.19":
+  version: 5.4.19
+  resolution: "vite@npm:5.4.19"
   dependencies:
     esbuild: ^0.21.3
     fsevents: ~2.3.3
@@ -8050,7 +8050,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: ea293748f624b3bb53e68d30ddc55e7addeaa38bbcde06d900e6d476bef3d0550de2a67f5316680dbeae483afedd3e735fb91b65004659f62bece537ed038a59
+  checksum: c15af65f2370b59e674c5fab22d8e05ec5c7f8f0345ed99ffec155c77feb5636b4e0680dbd096a6f06d7c386b259dc0b9c67c4f1ec08486a2f2a677c9ea6971b
   languageName: node
   linkType: hard
 
