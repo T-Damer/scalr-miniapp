@@ -14,6 +14,7 @@ export default defineConfig(({ mode }) => {
     preview: {
       port: 5173,
     },
+    base: '/scalr-miniapp/',
     build: {
       sourcemap: true,
       minify,
