@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "type": "module",
-  "homepage": "https://blue.scalr.trade",
+  "homepage": "https://t-damer.github.io/scalr-miniapp",
   "scripts": {
     "start": "vite",
     "build": "cross-env NODE_ENV=production tsc && vite build",
